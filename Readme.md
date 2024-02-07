@@ -11,10 +11,10 @@ This file consists the steps to run the code for both cases Case 1 and Case 2 de
 ```
 
 Case 1 - All Numeric Inputs
-Files to run for this case -> [model_inference_type1_mamdani.py](model-inference_type1_mamdani.py) and [model_inference_type1_sugeno.py](model-inference_type1_sugeno.py)
+Files to run for this case -> [model_inference_type1_mamdani.py](./models/model-inference_type1_mamdani.py) and [model_inference_type1_sugeno.py](./models/model-inference_type1_sugeno.py)
 
 Case 2 - All Interval Based Inputs
-Files to run for this case -> [model_inference_type1_mamdani_interval.py](model_inference_type1_mamdani_interval.py) and [model_inference_type1_sugeno_interval.py](model-inference_type1_sugeno_interval.py)
+Files to run for this case -> [model_inference_type1_mamdani_interval.py](./models/model_inference_type1_mamdani_interval.py) and [model_inference_type1_sugeno_interval.py](./models/model-inference_type1_sugeno_interval.py)
 
 In order to run files for case 1
 -------------------------------
@@ -28,29 +28,29 @@ Enter a Int Range of age 67
 
 Step 2 -> A plotted graph showing all antecedents and consequents
 
-![Image](image.png)
+![Image](./images/image.png)
 
 In order to proceed terminate this window by pressing 
 
-![terminate](image-1.png)
+![terminate](./images/image-1.png)
 
 After terminating wait for a few seconds and the rules screen will pop up
 
 Step 3 -> Another graph showing all antecedents and consequents with inputs will show up
 
-![Alt text](image-2.png)
+![Alt text](./images/image-2.png)
 
 In order to proceed terminate this window by pressing 
 
-![terminate](image-1.png)
+![terminate](./images/image-1.png)
 
 Step 4 -> You will be shown all the rules in both models along with the output aggregation in Mamdani model.
 
-![Rules](rules.png)
+![Rules](./images/rules.png)
 
 In order to proceed terminate this window by pressing 
 
-![terminate](image-1.png)
+![terminate](./images/image-1.png)
 
 After that you will be returned to command line ->
 
@@ -84,7 +84,7 @@ Step 2, 3 and 4 and 5 are same as Case 1
 
 Step 3 image
 
-![Alt text](image-3.png)
+![Alt text](./images/image-3.png)
 
 Done with Case 2
 
