@@ -105,8 +105,8 @@ Python
 ```
 
 #### Made By - 
-###### Aditya Purswani - Student ID -> 20596344
-###### Anasuya Dutta - Student ID -> 20594248
+###### Aditya Purswani
+###### Anasuya Dutta
 
 Thank You 
 ---------
